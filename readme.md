@@ -18,10 +18,10 @@ Input: string will contain characters followed by a number indicating how many t
 "a1b1c1" → "abc"<br>
 "" → ""
 
-## To run task
+## To run task:
 
-1. Make sure you have installed [node](https://nodejs.org/en)
+1. Make sure you have installed [node](https://nodejs.org/en). You can check it by typing `node --version` in terminal.
 2. Clone repository `git clone https://github.com/MariusDevelops/sourcery-academy-task.git`
 3. Open project folder `cd sourcery-academy-task`
 4. Run script `node task.js`
-5. You should be able to see compress and decompress test logs
+5. You should be able to see compress and decompress test logs.
